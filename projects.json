@@ -1,0 +1,20 @@
+[
+    {
+        "name": "coin case",
+        "live": "https://coin-case.herokuapp.com/",
+        "git": "https://github.com/jmch-git/coin-case",
+        "image": "https://github.com/jmch-git/coin-case/blob/master/Screen%20Shot%202022-01-14%20at%206.05.20%20AM.png?raw=true"
+    },
+    {
+        "name": "Gig App",
+        "live": "https://gig-app-jmch.herokuapp.com/",
+        "git":  "https://github.com/jmch-git/gig_app",
+        "image": ""
+    },
+    {
+        "name": "My Sustainable Brands",
+        "live": "https://my-sustainable-brands.netlify.app/",
+        "git":  "https://github.com/jmch-git/msb-frontend",
+        "image": "https://user-images.githubusercontent.com/94821167/152462448-4d7896b4-f65d-4ad7-a3e0-42b209735d33.png"
+    }
+]
